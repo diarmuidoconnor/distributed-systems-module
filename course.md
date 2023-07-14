@@ -1,3 +1,2 @@
-Full Stack Web Development 2
-javascript · SPA · react · Web APIs · front-end 
-
+Distributed Systems
+IaC - AWS - Serverless - Event-Driven - Typescript
