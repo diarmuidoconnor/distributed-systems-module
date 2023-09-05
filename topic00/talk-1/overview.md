@@ -1,3 +1,3 @@
 # Overview.
 
-The context and specific technology stack for this module.
+The context, themes, and structures for this module.
