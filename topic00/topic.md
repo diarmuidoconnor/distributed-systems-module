@@ -1,3 +1,3 @@
 # Module overview,
 
-A look at the context for this module.
+The module's context, themes and structures.
