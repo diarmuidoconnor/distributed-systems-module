@@ -1,3 +1,3 @@
-# La Work.
+# Lab Work.
  
 The complete set of lab exercises.
