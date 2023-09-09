@@ -1,3 +1,3 @@
-# Lab Work.
+# Lecture Slides.
  
-The complete set of lab exercises.
+The complete set of lecture slides.
