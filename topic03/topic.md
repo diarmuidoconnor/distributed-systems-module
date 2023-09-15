@@ -1,3 +1,3 @@
-# Lecture Slides.
+# Lecture Recordings.
  
-The complete set of lecture slides.
+The complete set of lecture videos.
