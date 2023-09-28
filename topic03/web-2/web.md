@@ -1,3 +1,3 @@
 Lecture 2.
 
-Ts continued and IaC introduction.
+TS continued and IaC introduction.
