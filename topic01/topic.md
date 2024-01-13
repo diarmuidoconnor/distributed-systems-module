@@ -1,3 +1,3 @@
-# Lab Work.
+# Typescript Language.
  
-The complete set of lab exercises.
+A crash course on the Typescript language from a Javascript developer's perspective.
