@@ -1,3 +1,3 @@
-# Lecture Slides.
+# Typescript Language.
  
-The complete set of lecture slides.
+A crash course on the Typescript language from a Javascript developer's perspective.
