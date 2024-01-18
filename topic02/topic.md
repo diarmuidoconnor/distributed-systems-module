@@ -1,3 +1,3 @@
-# Typescript Language.
+# CDK framework.
  
-A crash course on the Typescript language from a Javascript developer's perspective.
+Imperative infrastructure as code (IaC). Resource provisioning.
