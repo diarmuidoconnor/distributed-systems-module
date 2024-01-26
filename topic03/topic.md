@@ -1,3 +1,3 @@
-# CDK framework.
+# Serverless Architecture.
  
-Imperative infrastructure as code (IaC). Resource provisioning.
+The rationale for serverless and the main AWS services that enabke it.
