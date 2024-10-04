@@ -1,3 +1,3 @@
-Lecture 2.
+Lecture 3.
 
-TS introduction.
+TS introduction (Contd). The CDK framework
