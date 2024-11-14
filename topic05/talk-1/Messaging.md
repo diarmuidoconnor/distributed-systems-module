@@ -1,3 +1,3 @@
-# Messaging Services.
+# Messaging Services - SQS.
  
-The SQS messaging service and hoe it supports Event-Driiven architecture.
+The AWS SQS messaging service and how it supports Event-Driiven architecture.
