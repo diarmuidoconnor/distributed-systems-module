@@ -1,3 +1,3 @@
 # Messaging Services - SNS.
  
-The AWS SNS messaging service and how it supports Event-Driiven architecture.
+How AWS SNS messaging service and Dynamhow streams support the Event-Driiven architecture.
