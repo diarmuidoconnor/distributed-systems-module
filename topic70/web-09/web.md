@@ -1,3 +1,3 @@
-Lecture 8.
+Lecture 9.
 
-Message-driven applications. The AWS SQS service.
+Message-driven applications. The AWS SNS service.
